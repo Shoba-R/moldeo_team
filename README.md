@@ -14,5 +14,9 @@ Haciendo click en cada uno de los integrantes, se despliega la foto con el Nombr
 
 
 
+
+https://github.com/Shoba-R/moldeo_team/assets/114411879/3c6b4828-1070-4077-b2cb-b8d845a9407e
+
+
 ## 🛠 Skills
 Javascript, HTML, CSS...
