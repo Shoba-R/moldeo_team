@@ -20,3 +20,5 @@ https://github.com/Shoba-R/moldeo_team/assets/114411879/3c6b4828-1070-4077-b2cb-
 
 ## 🛠 Skills
 Javascript, HTML, CSS...
+## Para ver el proyecto, clack acá:
+https://shoba-r.github.io/moldeo_team/
